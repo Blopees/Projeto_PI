@@ -2,7 +2,7 @@
 
 ## 1 - Baixe o repositório do Projeto 
 ```
-git clone https://github.com/ElienaiTavares/projeto---integrador.git
+git clone https://github.com/Blopees/Projeto_PI.git
 ```
 ## 2 - API
 dentro do Repositporio api:
